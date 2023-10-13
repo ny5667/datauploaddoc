@@ -14,3 +14,6 @@ https://github.com/ny5667/data-upload-processor
 
 # 宿迁危险化学品安全生产风险监测预警系统数据对接
 https://github.com/ny5667/dataupload_suqian
+
+# 人员定位数据上报
+http://10.54.4.38/dataupload/ykdataupload
